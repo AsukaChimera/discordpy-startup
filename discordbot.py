@@ -4,7 +4,7 @@ import discord
 from discord.ext import tasks
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzM4NDU4NjYyMjI1MzEzODQy.XyMNOA.aZ0MijmJDiqpqf150SRouL_ODqo'
+TOKEN = 'NzMxNTQ2OTU5MzI3OTIwMTI4.XwraZQ.3U_4jwtc6siATYfLURVYWDvRtQo'
 CHANNEL_ID = 737109573806063627
 
 # 接続に必要なオブジェクトを生成
